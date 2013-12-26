@@ -1,0 +1,492 @@
+2013-12-16 11:55:07,483 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.0.4
+  Buildtime        2013-07-23 21:28
+  Python version   2.7.5.final.0
+  Excel version    11.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2013-12-16 11:55:25,703 - WARNING : pydevd failed to import - eclipse debugging won't work
+2013-12-16 11:55:25,703 - WARNING : Check the eclipse path in E:\download\pyxll\examples\tools\eclipse_debug.pyc
+2013-12-16 11:55:25,717 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2013-12-16 11:55:57,937 - ERROR : Traceback (most recent call last):
+2013-12-16 11:55:57,937 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 96, in win32com_menu_test
+2013-12-16 11:55:57,937 - ERROR :     selection = xl_app().Selection
+2013-12-16 11:55:57,937 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 79, in xl_app
+2013-12-16 11:55:57,937 - ERROR :     xl_window = pyxll.get_active_object()
+2013-12-16 11:55:57,937 - ERROR : RuntimeError: couldn't find EXCEL7 windows
+2013-12-16 11:59:41,921 - INFO : callbacks.on_close: PyXLL is closing
+2013-12-16 13:49:08,453 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.0.4
+  Buildtime        2013-07-23 21:28
+  Python version   2.7.5.final.0
+  Excel version    11.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2013-12-16 13:49:10,250 - WARNING : pydevd failed to import - eclipse debugging won't work
+2013-12-16 13:49:10,250 - WARNING : Check the eclipse path in E:\download\pyxll\examples\tools\eclipse_debug.pyc
+2013-12-16 13:49:10,265 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2013-12-16 13:49:20,812 - ERROR : Error calling function numpy_array_function_1
+2013-12-16 13:49:20,812 - ERROR : Traceback (most recent call last):
+2013-12-16 13:49:20,812 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 13:49:20,812 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 13:49:20,828 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 13:49:20,828 - ERROR : ImportError: No module named numpy
+2013-12-16 13:49:21,937 - ERROR : Error calling function numpy_col_function_1
+2013-12-16 13:49:21,937 - ERROR : Traceback (most recent call last):
+2013-12-16 13:49:21,937 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 13:49:21,937 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 13:49:21,937 - ERROR : ImportError: No module named numpy
+2013-12-16 13:49:21,937 - ERROR : Error calling function numpy_row_function_2
+2013-12-16 13:49:21,937 - ERROR : Traceback (most recent call last):
+2013-12-16 13:49:21,937 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 13:49:21,937 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 13:49:21,937 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 13:49:21,937 - ERROR : ImportError: No module named numpy
+2013-12-16 13:49:21,937 - ERROR : Error calling function numpy_row_function_1
+2013-12-16 13:49:21,937 - ERROR : Traceback (most recent call last):
+2013-12-16 13:49:21,937 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 13:49:21,937 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 13:49:21,937 - ERROR : ImportError: No module named numpy
+2013-12-16 13:49:21,953 - ERROR : Error calling function numpy_array_function_2
+2013-12-16 13:49:21,953 - ERROR : Traceback (most recent call last):
+2013-12-16 13:49:21,953 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 13:49:21,953 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 13:49:21,953 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 13:49:21,953 - ERROR : ImportError: No module named numpy
+2013-12-16 13:49:21,953 - ERROR : Error calling function numpy_col_function_2
+2013-12-16 13:49:21,953 - ERROR : Traceback (most recent call last):
+2013-12-16 13:49:21,953 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 13:49:21,953 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 13:49:21,953 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 13:49:21,967 - ERROR : ImportError: No module named numpy
+2013-12-16 13:50:44,796 - INFO : callbacks.on_close: PyXLL is closing
+2013-12-16 13:50:47,578 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.0.4
+  Buildtime        2013-07-23 21:28
+  Python version   2.7.5.final.0
+  Excel version    11.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2013-12-16 13:50:48,875 - WARNING : pydevd failed to import - eclipse debugging won't work
+2013-12-16 13:50:48,875 - WARNING : Check the eclipse path in E:\download\pyxll\examples\tools\eclipse_debug.pyc
+2013-12-16 13:50:48,875 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2013-12-16 13:50:51,250 - INFO : callbacks.on_close: PyXLL is closing
+2013-12-16 13:50:55,437 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.0.4
+  Buildtime        2013-07-23 21:28
+  Python version   2.7.5.final.0
+  Excel version    11.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2013-12-16 13:50:57,062 - WARNING : pydevd failed to import - eclipse debugging won't work
+2013-12-16 13:50:57,062 - WARNING : Check the eclipse path in E:\download\pyxll\examples\tools\eclipse_debug.pyc
+2013-12-16 13:50:57,062 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2013-12-16 13:51:09,515 - INFO : callbacks.on_close: PyXLL is closing
+2013-12-16 13:54:21,155 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.0.4
+  Buildtime        2013-07-23 21:28
+  Python version   2.7.5.final.0
+  Excel version    11.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2013-12-16 13:54:22,405 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2013-12-16 14:15:36,671 - INFO : callbacks.on_close: PyXLL is closing
+2013-12-16 15:22:56,046 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.0.4
+  Buildtime        2013-07-23 21:28
+  Python version   2.7.5.final.0
+  Excel version    11.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2013-12-16 15:22:57,265 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2013-12-16 15:22:57,983 - ERROR : Error calling function numpy_array_function_1
+2013-12-16 15:22:57,983 - ERROR : Traceback (most recent call last):
+2013-12-16 15:22:57,983 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:22:57,983 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:22:58,000 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:22:58,000 - ERROR : ImportError: No module named numpy
+2013-12-16 15:22:58,140 - ERROR : Error calling function numpy_col_function_1
+2013-12-16 15:22:58,140 - ERROR : Traceback (most recent call last):
+2013-12-16 15:22:58,155 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:22:58,155 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:22:58,155 - ERROR : ImportError: No module named numpy
+2013-12-16 15:22:58,155 - ERROR : Error calling function numpy_row_function_2
+2013-12-16 15:22:58,155 - ERROR : Traceback (most recent call last):
+2013-12-16 15:22:58,155 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:22:58,155 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:22:58,155 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:22:58,155 - ERROR : ImportError: No module named numpy
+2013-12-16 15:22:58,155 - ERROR : Error calling function numpy_row_function_1
+2013-12-16 15:22:58,155 - ERROR : Traceback (most recent call last):
+2013-12-16 15:22:58,155 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:22:58,155 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:22:58,155 - ERROR : ImportError: No module named numpy
+2013-12-16 15:22:58,171 - ERROR : Error calling function numpy_array_function_2
+2013-12-16 15:22:58,171 - ERROR : Traceback (most recent call last):
+2013-12-16 15:22:58,171 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:22:58,171 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:22:58,171 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:22:58,171 - ERROR : ImportError: No module named numpy
+2013-12-16 15:22:58,171 - ERROR : Error calling function numpy_col_function_2
+2013-12-16 15:22:58,171 - ERROR : Traceback (most recent call last):
+2013-12-16 15:22:58,171 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:22:58,171 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:22:58,171 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:22:58,171 - ERROR : ImportError: No module named numpy
+2013-12-16 15:23:06,562 - ERROR : Error calling function checkbox_example
+2013-12-16 15:23:06,562 - ERROR : Traceback (most recent call last):
+2013-12-16 15:23:06,562 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 119, in checkbox_example
+2013-12-16 15:23:06,562 - ERROR :     xl.Range("checkbox_output").Value = "CHECKED xl.Caller:" + str(xl.Caller)
+2013-12-16 15:23:06,562 - ERROR : UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+2013-12-16 15:23:09,655 - ERROR : Error calling function checkbox_example
+2013-12-16 15:23:09,655 - ERROR : Traceback (most recent call last):
+2013-12-16 15:23:09,655 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 119, in checkbox_example
+2013-12-16 15:23:09,655 - ERROR :     xl.Range("checkbox_output").Value = "CHECKED xl.Caller:" + str(xl.Caller)
+2013-12-16 15:23:09,655 - ERROR : UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+2013-12-16 15:23:10,796 - ERROR : Error calling function checkbox_example
+2013-12-16 15:23:10,796 - ERROR : Traceback (most recent call last):
+2013-12-16 15:23:10,796 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 119, in checkbox_example
+2013-12-16 15:23:10,796 - ERROR :     xl.Range("checkbox_output").Value = "CHECKED xl.Caller:" + str(xl.Caller)
+2013-12-16 15:23:10,796 - ERROR : UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+2013-12-16 15:23:12,171 - ERROR : Error calling function checkbox_example
+2013-12-16 15:23:12,171 - ERROR : Traceback (most recent call last):
+2013-12-16 15:23:12,171 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 119, in checkbox_example
+2013-12-16 15:23:12,171 - ERROR :     xl.Range("checkbox_output").Value = "CHECKED xl.Caller:" + str(xl.Caller)
+2013-12-16 15:23:12,171 - ERROR : UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+2013-12-16 15:23:13,171 - ERROR : Error calling function checkbox_example
+2013-12-16 15:23:13,171 - ERROR : Traceback (most recent call last):
+2013-12-16 15:23:13,171 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 119, in checkbox_example
+2013-12-16 15:23:13,171 - ERROR :     xl.Range("checkbox_output").Value = "CHECKED xl.Caller:" + str(xl.Caller)
+2013-12-16 15:23:13,171 - ERROR : UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+2013-12-16 15:23:16,187 - ERROR : Error calling function checkbox_example
+2013-12-16 15:23:16,187 - ERROR : Traceback (most recent call last):
+2013-12-16 15:23:16,187 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 119, in checkbox_example
+2013-12-16 15:23:16,187 - ERROR :     xl.Range("checkbox_output").Value = "CHECKED xl.Caller:" + str(xl.Caller)
+2013-12-16 15:23:16,187 - ERROR : UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+2013-12-16 15:23:16,905 - ERROR : Error calling function checkbox_example
+2013-12-16 15:23:16,905 - ERROR : Traceback (most recent call last):
+2013-12-16 15:23:16,905 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 119, in checkbox_example
+2013-12-16 15:23:16,921 - ERROR :     xl.Range("checkbox_output").Value = "CHECKED xl.Caller:" + str(xl.Caller)
+2013-12-16 15:23:16,921 - ERROR : UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+2013-12-16 15:23:17,328 - ERROR : Error calling function checkbox_example
+2013-12-16 15:23:17,328 - ERROR : Traceback (most recent call last):
+2013-12-16 15:23:17,328 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 119, in checkbox_example
+2013-12-16 15:23:17,328 - ERROR :     xl.Range("checkbox_output").Value = "CHECKED xl.Caller:" + str(xl.Caller)
+2013-12-16 15:23:17,328 - ERROR : UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+2013-12-16 15:23:17,796 - ERROR : Error calling function checkbox_example
+2013-12-16 15:23:17,796 - ERROR : Traceback (most recent call last):
+2013-12-16 15:23:17,796 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 119, in checkbox_example
+2013-12-16 15:23:17,796 - ERROR :     xl.Range("checkbox_output").Value = "CHECKED xl.Caller:" + str(xl.Caller)
+2013-12-16 15:23:17,796 - ERROR : UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+2013-12-16 15:23:18,250 - ERROR : Error calling function checkbox_example
+2013-12-16 15:23:18,250 - ERROR : Traceback (most recent call last):
+2013-12-16 15:23:18,250 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 119, in checkbox_example
+2013-12-16 15:23:18,250 - ERROR :     xl.Range("checkbox_output").Value = "CHECKED xl.Caller:" + str(xl.Caller)
+2013-12-16 15:23:18,250 - ERROR : UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+2013-12-16 15:23:22,140 - INFO : callbacks.on_close: PyXLL is closing
+2013-12-16 15:24:49,625 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.0.4
+  Buildtime        2013-07-23 21:28
+  Python version   2.7.5.final.0
+  Excel version    11.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2013-12-16 15:24:50,608 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2013-12-16 15:24:52,000 - ERROR : Error calling function numpy_array_function_1
+2013-12-16 15:24:52,000 - ERROR : Traceback (most recent call last):
+2013-12-16 15:24:52,000 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:24:52,000 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:24:52,000 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:24:52,000 - ERROR : ImportError: No module named numpy
+2013-12-16 15:24:52,108 - ERROR : Error calling function numpy_col_function_1
+2013-12-16 15:24:52,108 - ERROR : Traceback (most recent call last):
+2013-12-16 15:24:52,108 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:24:52,108 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:24:52,108 - ERROR : ImportError: No module named numpy
+2013-12-16 15:24:52,108 - ERROR : Error calling function numpy_row_function_2
+2013-12-16 15:24:52,108 - ERROR : Traceback (most recent call last):
+2013-12-16 15:24:52,108 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:24:52,108 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:24:52,108 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:24:52,108 - ERROR : ImportError: No module named numpy
+2013-12-16 15:24:52,125 - ERROR : Error calling function numpy_row_function_1
+2013-12-16 15:24:52,125 - ERROR : Traceback (most recent call last):
+2013-12-16 15:24:52,125 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:24:52,125 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:24:52,125 - ERROR : ImportError: No module named numpy
+2013-12-16 15:24:52,203 - ERROR : Traceback (most recent call last):
+2013-12-16 15:24:52,203 - ERROR :   File "pyxll", line 2310, in run
+2013-12-16 15:24:52,203 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 170, in update_func
+2013-12-16 15:24:52,203 - ERROR :     range.Value = value
+2013-12-16 15:24:52,203 - ERROR :   File "E:\Python27\lib\site-packages\win32com\client\__init__.py", line 474, in __setattr__
+2013-12-16 15:24:52,203 - ERROR :     self._oleobj_.Invoke(*(args + (value,) + defArgs))
+2013-12-16 15:24:52,203 - ERROR : com_error: (-2147352567, '\xb7\xa2\xc9\xfa\xd2\xe2\xcd\xe2\xa1\xa3', (0, None, None, None, 0, -2146777998), None)
+2013-12-16 15:24:54,203 - ERROR : Error calling function numpy_array_function_2
+2013-12-16 15:24:54,203 - ERROR : Traceback (most recent call last):
+2013-12-16 15:24:54,203 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:24:54,203 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:24:54,203 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:24:54,203 - ERROR : ImportError: No module named numpy
+2013-12-16 15:24:54,217 - ERROR : Error calling function numpy_col_function_2
+2013-12-16 15:24:54,217 - ERROR : Traceback (most recent call last):
+2013-12-16 15:24:54,217 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:24:54,217 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:24:54,217 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:24:54,217 - ERROR : ImportError: No module named numpy
+2013-12-16 15:24:55,921 - ERROR : Error calling function checkbox_example
+2013-12-16 15:24:55,921 - ERROR : Traceback (most recent call last):
+2013-12-16 15:24:55,921 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 119, in checkbox_example
+2013-12-16 15:24:55,921 - ERROR :     xl.Range("checkbox_output").Value = str(xl.Caller)
+2013-12-16 15:24:55,921 - ERROR : UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+2013-12-16 15:24:57,671 - ERROR : Error calling function checkbox_example
+2013-12-16 15:24:57,671 - ERROR : Traceback (most recent call last):
+2013-12-16 15:24:57,671 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 119, in checkbox_example
+2013-12-16 15:24:57,671 - ERROR :     xl.Range("checkbox_output").Value = str(xl.Caller)
+2013-12-16 15:24:57,671 - ERROR : UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+2013-12-16 15:24:58,608 - ERROR : Error calling function checkbox_example
+2013-12-16 15:24:58,608 - ERROR : Traceback (most recent call last):
+2013-12-16 15:24:58,608 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 119, in checkbox_example
+2013-12-16 15:24:58,608 - ERROR :     xl.Range("checkbox_output").Value = str(xl.Caller)
+2013-12-16 15:24:58,608 - ERROR : UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+2013-12-16 15:25:06,608 - INFO : callbacks.on_close: PyXLL is closing
+2013-12-16 15:28:33,233 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.0.4
+  Buildtime        2013-07-23 21:28
+  Python version   2.7.5.final.0
+  Excel version    11.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2013-12-16 15:28:33,312 - ERROR : Error importing 'automation': unexpected indent (automation.py, line 120)
+2013-12-16 15:28:33,312 - ERROR : Traceback (most recent call last):
+2013-12-16 15:28:33,312 - ERROR :   File "pyxll", line 719, in _open
+2013-12-16 15:28:33,312 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 120
+2013-12-16 15:28:33,312 - ERROR :     _log.warning("***     %s   ***" % str(xl.Caller))
+2013-12-16 15:28:33,312 - ERROR :    ^
+2013-12-16 15:28:33,312 - ERROR : IndentationError: unexpected indent
+2013-12-16 15:28:34,250 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2013-12-16 15:28:41,342 - ERROR : Error calling function numpy_array_function_1
+2013-12-16 15:28:41,342 - ERROR : Traceback (most recent call last):
+2013-12-16 15:28:41,342 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:28:41,342 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:28:41,342 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:28:41,342 - ERROR : ImportError: No module named numpy
+2013-12-16 15:28:41,405 - ERROR : Error calling function numpy_col_function_1
+2013-12-16 15:28:41,405 - ERROR : Traceback (most recent call last):
+2013-12-16 15:28:41,405 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:28:41,405 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:28:41,405 - ERROR : ImportError: No module named numpy
+2013-12-16 15:28:41,405 - ERROR : Error calling function numpy_row_function_2
+2013-12-16 15:28:41,405 - ERROR : Traceback (most recent call last):
+2013-12-16 15:28:41,405 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:28:41,405 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:28:41,405 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:28:41,405 - ERROR : ImportError: No module named numpy
+2013-12-16 15:28:41,405 - ERROR : Error calling function numpy_row_function_1
+2013-12-16 15:28:41,405 - ERROR : Traceback (most recent call last):
+2013-12-16 15:28:41,405 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:28:41,405 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:28:41,405 - ERROR : ImportError: No module named numpy
+2013-12-16 15:28:41,405 - ERROR : Error calling function numpy_array_function_2
+2013-12-16 15:28:41,405 - ERROR : Traceback (most recent call last):
+2013-12-16 15:28:41,421 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:28:41,421 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:28:41,421 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:28:41,421 - ERROR : ImportError: No module named numpy
+2013-12-16 15:28:41,421 - ERROR : Error calling function numpy_col_function_2
+2013-12-16 15:28:41,421 - ERROR : Traceback (most recent call last):
+2013-12-16 15:28:41,421 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:28:41,421 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:28:41,421 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:28:41,421 - ERROR : ImportError: No module named numpy
+2013-12-16 15:28:43,421 - INFO : callbacks.on_close: PyXLL is closing
+2013-12-16 15:28:57,655 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.0.4
+  Buildtime        2013-07-23 21:28
+  Python version   2.7.5.final.0
+  Excel version    11.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2013-12-16 15:28:58,703 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2013-12-16 15:28:59,453 - ERROR : Error calling function numpy_array_function_1
+2013-12-16 15:28:59,453 - ERROR : Traceback (most recent call last):
+2013-12-16 15:28:59,453 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:28:59,453 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:28:59,467 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:28:59,467 - ERROR : ImportError: No module named numpy
+2013-12-16 15:28:59,546 - ERROR : Error calling function numpy_col_function_1
+2013-12-16 15:28:59,546 - ERROR : Traceback (most recent call last):
+2013-12-16 15:28:59,546 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:28:59,546 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:28:59,546 - ERROR : ImportError: No module named numpy
+2013-12-16 15:28:59,546 - ERROR : Error calling function numpy_row_function_2
+2013-12-16 15:28:59,562 - ERROR : Traceback (most recent call last):
+2013-12-16 15:28:59,562 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:28:59,562 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:28:59,562 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:28:59,562 - ERROR : ImportError: No module named numpy
+2013-12-16 15:28:59,562 - ERROR : Error calling function numpy_row_function_1
+2013-12-16 15:28:59,562 - ERROR : Traceback (most recent call last):
+2013-12-16 15:28:59,562 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:28:59,562 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:28:59,562 - ERROR : ImportError: No module named numpy
+2013-12-16 15:28:59,562 - ERROR : Error calling function numpy_array_function_2
+2013-12-16 15:28:59,562 - ERROR : Traceback (most recent call last):
+2013-12-16 15:28:59,578 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:28:59,578 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:28:59,578 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:28:59,578 - ERROR : ImportError: No module named numpy
+2013-12-16 15:28:59,578 - ERROR : Error calling function numpy_col_function_2
+2013-12-16 15:28:59,578 - ERROR : Traceback (most recent call last):
+2013-12-16 15:28:59,578 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:28:59,578 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:28:59,578 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:28:59,578 - ERROR : ImportError: No module named numpy
+2013-12-16 15:29:04,296 - ERROR : Error calling function checkbox_example
+2013-12-16 15:29:04,296 - ERROR : Traceback (most recent call last):
+2013-12-16 15:29:04,296 - ERROR :   File "E:\download\pyxll\examples\automation.py", line 120, in checkbox_example
+2013-12-16 15:29:04,296 - ERROR :     _log.warning("***     %s   ***" % str(xl.Caller))
+2013-12-16 15:29:04,296 - ERROR : UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+2013-12-16 15:30:45,890 - INFO : callbacks.on_close: PyXLL is closing
+2013-12-16 15:30:56,483 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.0.4
+  Buildtime        2013-07-23 21:28
+  Python version   2.7.5.final.0
+  Excel version    11.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2013-12-16 15:30:57,530 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2013-12-16 15:30:58,390 - ERROR : Error calling function numpy_array_function_1
+2013-12-16 15:30:58,390 - ERROR : Traceback (most recent call last):
+2013-12-16 15:30:58,390 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:30:58,390 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:30:58,390 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:30:58,390 - ERROR : ImportError: No module named numpy
+2013-12-16 15:30:58,437 - ERROR : Error calling function numpy_col_function_1
+2013-12-16 15:30:58,453 - ERROR : Traceback (most recent call last):
+2013-12-16 15:30:58,453 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:30:58,453 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:30:58,453 - ERROR : ImportError: No module named numpy
+2013-12-16 15:30:58,453 - ERROR : Error calling function numpy_row_function_2
+2013-12-16 15:30:58,453 - ERROR : Traceback (most recent call last):
+2013-12-16 15:30:58,453 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:30:58,453 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:30:58,453 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:30:58,453 - ERROR : ImportError: No module named numpy
+2013-12-16 15:30:58,453 - ERROR : Error calling function numpy_row_function_1
+2013-12-16 15:30:58,453 - ERROR : Traceback (most recent call last):
+2013-12-16 15:30:58,453 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:30:58,453 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:30:58,453 - ERROR : ImportError: No module named numpy
+2013-12-16 15:30:58,453 - ERROR : Error calling function numpy_array_function_2
+2013-12-16 15:30:58,453 - ERROR : Traceback (most recent call last):
+2013-12-16 15:30:58,453 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:30:58,467 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:30:58,467 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:30:58,467 - ERROR : ImportError: No module named numpy
+2013-12-16 15:30:58,467 - ERROR : Error calling function numpy_col_function_2
+2013-12-16 15:30:58,467 - ERROR : Traceback (most recent call last):
+2013-12-16 15:30:58,467 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:30:58,467 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:30:58,467 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:30:58,467 - ERROR : ImportError: No module named numpy
+2013-12-16 15:31:03,390 - WARNING : ***     u'\u590d\u9009\u6846 3'   ***
+2013-12-16 15:32:45,640 - INFO : callbacks.on_close: PyXLL is closing
+2013-12-16 15:32:49,953 - INFO : callbacks.on_close: PyXLL is closing
+2013-12-16 15:33:44,342 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.0.4
+  Buildtime        2013-07-23 21:28
+  Python version   2.7.5.final.0
+  Excel version    11.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2013-12-16 15:33:45,171 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2013-12-16 15:33:45,828 - ERROR : Error calling function numpy_array_function_1
+2013-12-16 15:33:45,828 - ERROR : Traceback (most recent call last):
+2013-12-16 15:33:45,828 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:33:45,828 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:33:45,828 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:33:45,828 - ERROR : ImportError: No module named numpy
+2013-12-16 15:33:45,921 - ERROR : Error calling function numpy_col_function_1
+2013-12-16 15:33:45,921 - ERROR : Traceback (most recent call last):
+2013-12-16 15:33:45,921 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:33:45,921 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:33:45,921 - ERROR : ImportError: No module named numpy
+2013-12-16 15:33:45,937 - ERROR : Error calling function numpy_row_function_2
+2013-12-16 15:33:45,937 - ERROR : Traceback (most recent call last):
+2013-12-16 15:33:45,937 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:33:45,937 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:33:45,937 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:33:45,937 - ERROR : ImportError: No module named numpy
+2013-12-16 15:33:45,937 - ERROR : Error calling function numpy_row_function_1
+2013-12-16 15:33:45,937 - ERROR : Traceback (most recent call last):
+2013-12-16 15:33:45,937 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:33:45,937 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:33:45,937 - ERROR : ImportError: No module named numpy
+2013-12-16 15:33:45,937 - ERROR : Error calling function numpy_array_function_2
+2013-12-16 15:33:45,937 - ERROR : Traceback (most recent call last):
+2013-12-16 15:33:45,937 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:33:45,953 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:33:45,953 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:33:45,953 - ERROR : ImportError: No module named numpy
+2013-12-16 15:33:45,953 - ERROR : Error calling function numpy_col_function_2
+2013-12-16 15:33:45,953 - ERROR : Traceback (most recent call last):
+2013-12-16 15:33:45,953 - ERROR :   File "pyxll", line 1463, in _xl_func_wrapper
+2013-12-16 15:33:45,953 - ERROR :   File "pyxll", line 1453, in _xl_func_wrapper
+2013-12-16 15:33:45,953 - ERROR :   File "pyxll", line 1968, in _array_to_numpy_array
+2013-12-16 15:33:45,953 - ERROR : ImportError: No module named numpy
+2013-12-16 15:40:35,983 - INFO : callbacks.on_close: PyXLL is closing

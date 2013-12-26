@@ -1,0 +1,32 @@
+2013-12-14 20:41:59,765 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.0.4
+  Buildtime        2013-07-23 21:28
+  Python version   2.7.5.final.0
+  Excel version    11.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2013-12-14 20:42:16,937 - WARNING : pydevd failed to import - eclipse debugging won't work
+2013-12-14 20:42:16,937 - WARNING : Check the eclipse path in E:\download\pyxll\examples\tools\eclipse_debug.py
+2013-12-14 20:42:16,937 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2013-12-14 20:49:40,000 - INFO : callbacks.on_close: PyXLL is closing
+2013-12-14 20:55:08,358 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.0.4
+  Buildtime        2013-07-23 21:28
+  Python version   2.7.5.final.0
+  Excel version    11.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2013-12-14 20:55:27,046 - WARNING : pydevd failed to import - eclipse debugging won't work
+2013-12-14 20:55:27,046 - WARNING : Check the eclipse path in E:\download\pyxll\examples\tools\eclipse_debug.pyc
+2013-12-14 20:55:27,046 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2013-12-14 20:55:37,750 - INFO : callbacks.on_close: PyXLL is closing
